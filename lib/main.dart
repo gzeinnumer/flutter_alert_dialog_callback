@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
             Text(
-              'Plus Show Dialog',
+              'Click Plus Show Dialog',
             ),
           ],
         ),
